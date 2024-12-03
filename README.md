@@ -1,10 +1,15 @@
 Project Documentation
 
 Project Overview 
+
 • Project Title: EcoTech 
+
 • Start Date: November 11 2024
+
 • End Date: December 2 2024
+
 • Project Type: Website Application 
+
 • Status: Completed
 
 1.1 Project Summary 
